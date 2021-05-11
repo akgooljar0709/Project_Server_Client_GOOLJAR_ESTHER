@@ -1,0 +1,4 @@
+/home/akash/Desktop/info_1/Server_Client_GOOLJAR_Akash/bin/CMakeFiles/rebuild_cache.dir
+/home/akash/Desktop/info_1/Server_Client_GOOLJAR_Akash/bin/CMakeFiles/edit_cache.dir
+/home/akash/Desktop/info_1/Server_Client_GOOLJAR_Akash/bin/CMakeFiles/client.dir
+/home/akash/Desktop/info_1/Server_Client_GOOLJAR_Akash/bin/CMakeFiles/server.dir

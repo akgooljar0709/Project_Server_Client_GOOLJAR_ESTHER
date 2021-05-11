@@ -1,0 +1,2 @@
+https://www.educative.io/edpresso/how-to-implement-tcp-sockets-in-c
+https://codeforwin.org/2018/03/c-program-check-file-or-directory-exists-not.html

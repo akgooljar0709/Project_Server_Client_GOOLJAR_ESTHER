@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akash/Desktop/info_1/Server_Client_GOOLJAR_Akash/src/server.c
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+sys/stat.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+dirent.h
+-
+
